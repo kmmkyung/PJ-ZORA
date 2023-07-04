@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Zora-app/static/css/main.08e2fb9d.css",
-    "main.js": "/Zora-app/static/js/main.bae07ad3.js",
+    "main.js": "/Zora-app/static/js/main.76301420.js",
     "static/media/rounde_cricle.svg": "/Zora-app/static/media/rounde_cricle.cdc540a748448310f05b75d2c96d80a4.svg",
     "static/media/page1.svg": "/Zora-app/static/media/page1.4a5d1037999bd7729ce6ebdfefe55bfa.svg",
     "static/media/rounde_hand.svg": "/Zora-app/static/media/rounde_hand.5b715086f9c2fdde327c9c0413d91e93.svg",
     "static/media/Logo_W.svg": "/Zora-app/static/media/Logo_W.3b5736f9fc0abc7ce88933df4ab31e70.svg",
     "index.html": "/Zora-app/index.html",
     "main.08e2fb9d.css.map": "/Zora-app/static/css/main.08e2fb9d.css.map",
-    "main.bae07ad3.js.map": "/Zora-app/static/js/main.bae07ad3.js.map"
+    "main.76301420.js.map": "/Zora-app/static/js/main.76301420.js.map"
   },
   "entrypoints": [
     "static/css/main.08e2fb9d.css",
-    "static/js/main.bae07ad3.js"
+    "static/js/main.76301420.js"
   ]
 }
