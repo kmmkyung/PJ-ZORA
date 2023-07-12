@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Zora-app/static/css/main.cc5ff325.css",
-    "main.js": "/Zora-app/static/js/main.76301420.js",
-    "static/media/Cako-Regular.woff2": "/Zora-app/static/media/Cako-Regular.53bf626181be14ceaa89.woff2",
-    "static/media/Atami-Regular.woff": "/Zora-app/static/media/Atami-Regular.6139ada5419f8267c693.woff",
-    "static/media/rounde_cricle.svg": "/Zora-app/static/media/rounde_cricle.cdc540a748448310f05b75d2c96d80a4.svg",
-    "static/media/page1.svg": "/Zora-app/static/media/page1.4a5d1037999bd7729ce6ebdfefe55bfa.svg",
-    "static/media/rounde_hand.svg": "/Zora-app/static/media/rounde_hand.5b715086f9c2fdde327c9c0413d91e93.svg",
-    "static/media/Logo_W.svg": "/Zora-app/static/media/Logo_W.3b5736f9fc0abc7ce88933df4ab31e70.svg",
-    "index.html": "/Zora-app/index.html",
-    "main.cc5ff325.css.map": "/Zora-app/static/css/main.cc5ff325.css.map",
-    "main.76301420.js.map": "/Zora-app/static/js/main.76301420.js.map"
+    "main.css": "/ZORA-PJ/static/css/main.44f40533.css",
+    "main.js": "/ZORA-PJ/static/js/main.00344762.js",
+    "static/media/Cako-Regular.woff2": "/ZORA-PJ/static/media/Cako-Regular.53bf626181be14ceaa89.woff2",
+    "static/media/Atami-Regular.woff": "/ZORA-PJ/static/media/Atami-Regular.6139ada5419f8267c693.woff",
+    "static/media/rounde_cricle.svg": "/ZORA-PJ/static/media/rounde_cricle.cdc540a748448310f05b75d2c96d80a4.svg",
+    "static/media/page1.svg": "/ZORA-PJ/static/media/page1.e5c2da3f4588955b84da964461fc5e5f.svg",
+    "static/media/rounde_hand.svg": "/ZORA-PJ/static/media/rounde_hand.5b715086f9c2fdde327c9c0413d91e93.svg",
+    "static/media/Logo_W.svg": "/ZORA-PJ/static/media/Logo_W.1cc51411701bc0e3a6d3b9d0fec1c238.svg",
+    "index.html": "/ZORA-PJ/index.html",
+    "main.44f40533.css.map": "/ZORA-PJ/static/css/main.44f40533.css.map",
+    "main.00344762.js.map": "/ZORA-PJ/static/js/main.00344762.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc5ff325.css",
-    "static/js/main.76301420.js"
+    "static/css/main.44f40533.css",
+    "static/js/main.00344762.js"
   ]
 }
