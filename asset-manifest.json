@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PJ-ZORA/static/css/main.58c49d13.css",
-    "main.js": "/PJ-ZORA/static/js/main.ebb2e9ed.js",
+    "main.js": "/PJ-ZORA/static/js/main.d80b40fb.js",
     "static/media/Cako-Regular.woff2": "/PJ-ZORA/static/media/Cako-Regular.53bf626181be14ceaa89.woff2",
     "static/media/Atami-Regular.woff": "/PJ-ZORA/static/media/Atami-Regular.6139ada5419f8267c693.woff",
     "static/media/rounde_cricle.svg": "/PJ-ZORA/static/media/rounde_cricle.cdc540a748448310f05b75d2c96d80a4.svg",
@@ -10,10 +10,10 @@
     "static/media/Logo_W.svg": "/PJ-ZORA/static/media/Logo_W.1cc51411701bc0e3a6d3b9d0fec1c238.svg",
     "index.html": "/PJ-ZORA/index.html",
     "main.58c49d13.css.map": "/PJ-ZORA/static/css/main.58c49d13.css.map",
-    "main.ebb2e9ed.js.map": "/PJ-ZORA/static/js/main.ebb2e9ed.js.map"
+    "main.d80b40fb.js.map": "/PJ-ZORA/static/js/main.d80b40fb.js.map"
   },
   "entrypoints": [
     "static/css/main.58c49d13.css",
-    "static/js/main.ebb2e9ed.js"
+    "static/js/main.d80b40fb.js"
   ]
 }
