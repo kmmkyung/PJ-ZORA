@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PJ-ZORA/static/css/main.cf94a618.css",
-    "main.js": "/PJ-ZORA/static/js/main.08cc4af1.js",
+    "main.css": "/PJ-ZORA/static/css/main.5559bacd.css",
+    "main.js": "/PJ-ZORA/static/js/main.a8a50071.js",
     "static/media/Cako-Regular.woff2": "/PJ-ZORA/static/media/Cako-Regular.53bf626181be14ceaa89.woff2",
     "static/media/Atami-Regular.woff": "/PJ-ZORA/static/media/Atami-Regular.6139ada5419f8267c693.woff",
     "static/media/rounde_cricle.svg": "/PJ-ZORA/static/media/rounde_cricle.cdc540a748448310f05b75d2c96d80a4.svg",
@@ -9,11 +9,11 @@
     "static/media/rounde_hand.svg": "/PJ-ZORA/static/media/rounde_hand.5b715086f9c2fdde327c9c0413d91e93.svg",
     "static/media/Logo_W.svg": "/PJ-ZORA/static/media/Logo_W.1cc51411701bc0e3a6d3b9d0fec1c238.svg",
     "index.html": "/PJ-ZORA/index.html",
-    "main.cf94a618.css.map": "/PJ-ZORA/static/css/main.cf94a618.css.map",
-    "main.08cc4af1.js.map": "/PJ-ZORA/static/js/main.08cc4af1.js.map"
+    "main.5559bacd.css.map": "/PJ-ZORA/static/css/main.5559bacd.css.map",
+    "main.a8a50071.js.map": "/PJ-ZORA/static/js/main.a8a50071.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf94a618.css",
-    "static/js/main.08cc4af1.js"
+    "static/css/main.5559bacd.css",
+    "static/js/main.a8a50071.js"
   ]
 }
